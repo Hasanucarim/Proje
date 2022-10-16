@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    /*background-image: url("hoparlör.jpg");*/
+    background-repeat: round ;
+
+}
+.ozel-d {
+background-color: rgb(52, 153, 38);
+}
+#hasan{
+    background-color: blue;
+}
+h1{
+    font-size: 30px;
+}
+iframe{
+    font-weight: 100;
+    background-position: left;
+    width: 200px;
+}
